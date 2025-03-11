@@ -1,0 +1,2 @@
+# ride-hailing-system
+A ride-hailing system that connects riders and drivers in real time featuring secure authentication, driver matching, ride queuing, geolocation tracking and websocket-based live updates.
